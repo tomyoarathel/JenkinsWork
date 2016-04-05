@@ -1,7 +1,7 @@
 package com.tomyoarathel;
 
-class Hello{
+public class Hello{
 public void sayHi(){
-system.out.println("Hello Java");
+System.out.println("Hello Java");
 }
 }
